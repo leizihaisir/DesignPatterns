@@ -1,4 +1,8 @@
-package com.ileir.factoryMethod;
+package com.ileir.factoryPatterns.factoryMethod;
+
+import com.ileir.factoryPatterns.SenderImpl.MailSender;
+import com.ileir.factoryPatterns.SenderImpl.SmsSender;
+import com.ileir.factoryPatterns.SenderInterface.Sender;
 
 /**
  * Created by zihailei on 2017/10/6.

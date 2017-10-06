@@ -1,4 +1,6 @@
-package com.ileir.factoryMethod;
+package com.ileir.factoryPatterns.SenderImpl;
+
+import com.ileir.factoryPatterns.SenderInterface.Sender;
 
 /**
  * Created by zihailei on 2017/10/6.

@@ -1,4 +1,4 @@
-package com.ileir.factoryMethod;
+package com.ileir.factoryPatterns.SenderInterface;
 
 /**
  * Created by zihailei on 2017/10/6.
